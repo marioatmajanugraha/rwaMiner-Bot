@@ -64,4 +64,11 @@ MIT License.
 
 Kalau ada yang kurang jelas, langsung saja buka issue di repo ini! 🚀
 
+---
+
+## 📞 Kontak
+Jika ada pertanyaan, hubungi: [@balveerxyz](https://t.me/balveerxyz)
+
+Join channel Telegram: [Airdrop 888](https://t.me/airdroplocked)
+
 
