@@ -8,10 +8,13 @@ Script ini adalah bot otomatis untuk memainkan game di platform RWA menggunakan 
 - **Batch Processing**: Mengelola banyak wallet sekaligus dalam satu sesi.
 - **Auto Click**: Mengotomatiskan klik hingga mencapai batas harian.
 
+## New Update 
+- **Auto Relogin**: Relog for all wallets
+
 ## 📂 Struktur File
 ```
 .
-├── autoGame.mjs         # Skrip utama bot
+├── autoGame.js          # Skrip utama bot
 ├── Task.mjs             # Skrip Auto Complete Task
 ├── wallets.json         # File berisi daftar wallet
 ├── proxy.txt            # (Opsional) Daftar proxy
