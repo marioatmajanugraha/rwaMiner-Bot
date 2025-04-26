@@ -3,7 +3,8 @@
 Script ini digunakan untuk mengotomatiskan tugas di platform **GoldStation**, seperti daily check-in, klik maksimal, level-up, dan aksi chance (`open` / `purchase`).  
 Dibuat untuk efisiensi dan kemudahan penggunaan dengan dukungan multi-akun dan proxy.
 
-![GoldStation](https://via.placeholder.com/800x400.png?text=GoldStation+Bot) <!-- Ganti dengan gambar terkait jika ada -->
+![rwaMiner-Bot](https://github.com/user-attachments/assets/163ddbe1-660f-4707-92c2-2ae743d33c43)
+
 
 ---
 
